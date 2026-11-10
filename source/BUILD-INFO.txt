@@ -1,0 +1,7 @@
+Product: PDF Thumbnail Handler
+Version: 0.1.0
+Architecture: x86-64 (AMD64)
+Binary type: Windows PE32+ DLL
+Exports: DllGetClassObject, DllCanUnloadNow
+Registration: current-user active PDF ProgID + machine COM CLSID
+DLL SHA256: 7a06e691590987b578bd8bfe7e278b10cd8efb955e68dd3cdaf48b527eb0c70e
